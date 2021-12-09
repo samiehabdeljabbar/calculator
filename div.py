@@ -2,6 +2,7 @@ import yfinance as yf
 from yfinance.ticker import Ticker 
 
 
+
 agnc = yf.Ticker("AGNC")
 
 
