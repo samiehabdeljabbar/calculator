@@ -1,8 +1,6 @@
-from time import time
 import yfinance as yf
 from yfinance.ticker import Ticker 
-from datetime import time
-import numpy
+
 
 agnc = yf.Ticker("AGNC")
 
