@@ -8,6 +8,7 @@ agnc = yf.Ticker("AGNC")
 
 
 dividend = float(agnc.info['dividendRate'])
+print(dividend)
 
 
 question = float(input("How many shares of AGNC do you own? "))
